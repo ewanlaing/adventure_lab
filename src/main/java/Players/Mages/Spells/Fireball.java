@@ -1,3 +1,5 @@
+package Players.Mages.Spells;
+
 import Enemy.Enemy;
 import behaviours.ISpell;
 

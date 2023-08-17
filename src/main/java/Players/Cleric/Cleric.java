@@ -1,4 +1,4 @@
-package Players;
+package Players.Cleric;
 
 import Players.Player;
 import behaviours.IHeal;

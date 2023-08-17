@@ -1,10 +1,14 @@
+package Players.Cleric;
+
 import Players.Player;
 import behaviours.IHeal;
 
-public class Potion implements IHeal {
+public class Herb implements IHeal {
+
+
     private int healingValue;
 
-    public Potion(int healingValue) {
+    public Herb(int healingValue) {
         this.healingValue = healingValue;
     }
 
